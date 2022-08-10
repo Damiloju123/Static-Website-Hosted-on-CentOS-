@@ -72,3 +72,5 @@ Command: systemctl restart httpd
 Step 17: Refresh the browser
 
 
+NB
+Automating this process, I listed out all the commands used in the set up and placed them in the config.vm.provision section of my vagrant file. Please check the Vagrant file in this repository.
